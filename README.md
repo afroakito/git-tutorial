@@ -1,3 +1,3 @@
 # git-tutorial
 
-fetch and pull
+fetch and pull2
